@@ -27,14 +27,14 @@ public class Chrome_Base {
 	
 	
 	
-	//public void initConfiguration(FMLInitializationEvent event){
-		//Configuration config = new Configuration(new File("/config/Chrome's-Essentials.cfg"));
-		//config.load();
-		//ChromeIngot = config.get("Item","Chromium Ingot", "501").getInt();
+	/*public void initConfiguration(FMLInitializationEvent event){
+		Configuration config = new Configuration(new File("/config/Chrome's-Essentials.cfg"));
+		config.load();
+		ChromeIngot = config.get("Item","Chromium Ingot", "501").getInt();
 		
-		//config.save();
-	//}
-	
+		config.save();
+	}
+	*/
 	//Blocks
 	public static Block ChromeOre;
 	int ChromeOreID = 4000;
